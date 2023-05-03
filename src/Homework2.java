@@ -10,6 +10,7 @@ public class Homework2 {
         list.printList();
         list.reverse();
         list.printList();
+
     }
 }
 
@@ -182,3 +183,4 @@ class DoublyLinkedList<T> {
         System.out.println();
     }
 }
+
